@@ -1,0 +1,6 @@
+{
+  "name": "Saka Sushi Bar — Hub Oficial, Cardápio & Delivery",
+  "description": "Página oficial do Saka Sushi Bar: cardápio digital completo, pedidos delivery via WhatsApp, reservas de mesa, localização e horários de atendimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
