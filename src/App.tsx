@@ -56,7 +56,7 @@ export default function App() {
         <div 
           className="absolute inset-0 w-full h-full bg-cover bg-[center_20%] pointer-events-none opacity-30 scale-105 filter blur-[0.3px]"
           style={{
-            backgroundImage: "url('/src/assets/images/saka_building_bg.png')"
+            backgroundImage: "url('/images/saka_building_bg.png')"
           }}
           aria-hidden="true"
         />
@@ -414,7 +414,7 @@ export default function App() {
               {/* Foto Inteira da Fachada do Saka Sushi Bar */}
               <div className="relative w-full bg-[#0D0D0D] flex items-center justify-center overflow-hidden">
                 <img
-                  src="/src/assets/images/saka_building_bg.png"
+                  src="/images/saka_building_bg.png"
                   alt="Fachada Saka Sushi Bar"
                   className="w-full h-auto max-h-[580px] object-contain sm:object-cover sm:object-top transition-transform duration-700 group-hover:scale-[1.01]"
                 />

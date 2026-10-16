@@ -72,7 +72,7 @@ export const InfoModal: React.FC<InfoModalProps> = ({
         {/* Facade Image */}
         <div className="relative mb-5 overflow-hidden rounded-2xl border border-white/10 group">
           <img
-            src="/src/assets/images/saka_facade_night_1792178564209.jpg"
+            src="/images/saka_facade_night.jpg"
             alt="Fachada do Saka Sushi Bar iluminada à noite"
             referrerPolicy="no-referrer"
             className="w-full h-44 sm:h-52 object-cover transition-transform duration-500 group-hover:scale-105"

@@ -172,7 +172,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 189.90,
     pieces: '40 peças',
     description: 'Seleção magna do sushiman: 10 sashimis de salmão maçaricado com azeite trufado, 6 niguiris especiais com flor de sal e ouro comestível, 8 uramakis ebitem com crispy de alho-poró, 8 jyo de salmão com amora e 8 hot rolls crocantes.',
-    image: '/src/assets/images/sushi_combo_premium_1792178564395.jpg',
+    image: '/images/sushi_combo_premium.jpg',
     tag: 'Mais Pedido',
     isChefSpecial: true
   },
@@ -183,7 +183,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 139.90,
     pieces: 'À vontade',
     description: 'Experiência gastronômica completa: entradas quentes ilimitadas (shimeji, guioza, harumaki, sunomono), carpaccios trufados, sashimis nobres ilimitados, niguiris maçaricados, temakis e sobremesa artesanal.',
-    image: '/src/assets/images/sushi_combo_premium_1792178564395.jpg',
+    image: '/images/sushi_combo_premium.jpg',
     tag: 'Experiência Completa',
     isChefSpecial: true
   },
@@ -194,7 +194,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 259.90,
     pieces: 'Para 2 pessoas à vontade',
     description: 'O melhor rodízio para 2 pessoas. Inclui toda a carta de entradas, bateras especiais, lâminas de polvo e atum selado, além de 2 taças de espumante ou sobremesas especiais da casa.',
-    image: '/src/assets/images/sushi_combo_premium_1792178564395.jpg',
+    image: '/images/sushi_combo_premium.jpg',
     tag: 'Casal VIP'
   },
   {
@@ -204,7 +204,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 44.90,
     pieces: '10 unidades',
     description: 'Roll empanado na farinha panko ultra crocante recheado com salmão fresco e cream cheese philadelphia, finalizado com fio de tarê artesanal, crispy de alho-poró dourado e gergelim tostado.',
-    image: '/src/assets/images/sushi_hot_rolls_1792178565934.jpg',
+    image: '/images/sushi_hot_rolls.jpg',
     tag: 'Sucesso de Vendas',
     isChefSpecial: true
   },
@@ -215,7 +215,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 49.90,
     pieces: '10 unidades',
     description: 'Empanado panko recheado com camarão rosa grelhado, lâmina de salmão envolto, cream cheese e toque sutil de pimenta togarashi e geleia de pimenta defumada.',
-    image: '/src/assets/images/sushi_hot_rolls_1792178565934.jpg',
+    image: '/images/sushi_hot_rolls.jpg',
     tag: 'Especial'
   },
   {
@@ -225,7 +225,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 36.90,
     pieces: '1 cone generoso',
     description: 'Cone de alga nori crocante recheado até o fundo com cubos nobres de salmão fresco, cream cheese Philadelphia, cebolinha fresca e ovas de massago ou gergelim moído na hora.',
-    image: '/src/assets/images/sushi_temaki_salmon_1792178565487.jpg',
+    image: '/images/sushi_temaki_salmon.jpg',
     tag: 'Favorito',
     isChefSpecial: true
   },
@@ -236,7 +236,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 38.90,
     pieces: '1 cone generoso',
     description: 'Salmão levemente grelhado com cogumelos shimeji salteados na manteiga da terra, cream cheese cremoso e cebolinha.',
-    image: '/src/assets/images/sushi_temaki_salmon_1792178565487.jpg'
+    image: '/images/sushi_temaki_salmon.jpg'
   },
   {
     id: 'sashimi-salmao-trufado',
@@ -245,7 +245,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 68.90,
     pieces: '15 lâminas finas',
     description: 'Lâminas ultrafinas de salmão fresco premium banhadas em azeite trufado branco, flor de sal do Himalaia, raspas de limão siciliano e molho ponzu especial da casa.',
-    image: '/src/assets/images/sushi_combo_premium_1792178564395.jpg',
+    image: '/images/sushi_combo_premium.jpg',
     tag: 'Gourmet'
   },
   {
@@ -255,7 +255,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 32.90,
     pieces: '4 unidades',
     description: 'Niguiris de salmão maçaricados na brasa com crosta brûlée de açúcar mascavo e flor de sal, finalizados com folha de ouro 24k comestível.',
-    image: '/src/assets/images/sushi_combo_premium_1792178564395.jpg'
+    image: '/images/sushi_combo_premium.jpg'
   },
   {
     id: 'entrada-shimeji-manteiga',
@@ -264,7 +264,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 39.90,
     pieces: 'Porção para compartilhar',
     description: 'Cogumelos shimeji frescos salteados no fogo alto com manteiga de primeira linha, saquê mirin, shoyu suave e cebolinha fresca picada na hora.',
-    image: '/src/assets/images/sushi_combo_premium_1792178564395.jpg',
+    image: '/images/sushi_combo_premium.jpg',
     tag: 'Quente'
   },
   {
@@ -274,7 +274,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 34.90,
     pieces: '6 unidades',
     description: 'Pastéis japoneses feitos à mão com recheio suculento de lombo temperado e legumes frescos, dourados na chapa e servidos com molho ponzu de gengibre.',
-    image: '/src/assets/images/sushi_hot_rolls_1792178565934.jpg'
+    image: '/images/sushi_hot_rolls.jpg'
   },
   {
     id: 'drink-saketini-lichia',
@@ -283,7 +283,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 32.90,
     pieces: 'Taça 300ml',
     description: 'Saquê japonês importado, licor de lichia premium, xarope de gengibre caseiro e néctar de limão siciliano.',
-    image: '/src/assets/images/saka_facade_night_1792178564209.jpg',
+    image: '/images/saka_facade_night.jpg',
     tag: 'Coquetel da Casa'
   },
   {
@@ -293,7 +293,7 @@ export const MENU_ITEMS: MenuItem[] = [
     price: 24.90,
     pieces: '330ml geladíssima',
     description: 'A autêntica cerveja japonesa de perfil seco e refrescante, harmonização perfeita com sushis e pratos maçaricados.',
-    image: '/src/assets/images/saka_facade_night_1792178564209.jpg'
+    image: '/images/saka_facade_night.jpg'
   }
 ];
 
@@ -304,7 +304,7 @@ export const SHOWCASE_STORIES = [
     subtitle: 'Nossa maior assinatura gastronômica',
     description: '40 peças minuciosamente talhadas com pescados frescos selecionados todos os dias nas primeiras horas da manhã.',
     price: 'R$ 189,90',
-    image: '/src/assets/images/sushi_combo_premium_1792178564395.jpg',
+    image: '/images/sushi_combo_premium.jpg',
     badge: 'Obra Prima'
   },
   {
@@ -313,7 +313,7 @@ export const SHOWCASE_STORIES = [
     subtitle: 'Crocância e cremosidade em equilíbrio',
     description: 'Recheado com salmão e cream cheese e finalizado com nossa calda artesanal de tarê envelhecido.',
     price: 'R$ 44,90',
-    image: '/src/assets/images/sushi_hot_rolls_1792178565934.jpg',
+    image: '/images/sushi_hot_rolls.jpg',
     badge: 'Crosta Panko'
   }
 ];
